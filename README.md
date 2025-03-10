@@ -1,6 +1,6 @@
 # Parcial #1 - Estructuras de Datos
 
-Fecha: Marzo 02, 2023  
+Fecha: Marzo 10, 2025
 Duración: 1h 20m
 
 ## Instrucciones
@@ -29,8 +29,6 @@ Para implementarlo, debe basarse en el siguiente pseudocódigo:
 >  
 >SET START = PREV_NODE
 
-2) **Reverse with Stack:** esta función debe realizarse fuera de la clase Linked List. Su funcionalidad consiste en apoyarse de una instancia de la clase Stack para invertir el orden de la lista simplemente ligada. Esta función debe retornar una nueva lista, independiente a la lista ligada original, con el orden de sus elementos invertido.
-
 
 ## Testing
 
@@ -41,3 +39,8 @@ Para evaluar el funcionamiento de su código, deberá realizar lo siguiente en e
 2) Utilizar la función **Reverse with Stack** para crear una nueva lista invertida a partir de la lista original.
 3) Utilizar el método **Reverse Inplace** para invertir la lista original.
 4) Imprimir ambas listas resultantes para evaluar que sean iguales.
+
+## Results
+
+![Console results](https://github.com/VictorSaraviaUFM/reverse-linked-lists/blob/main/imgs/Screenshot%202025-03-10%20at%2011.07.01%E2%80%AFAM.png)
+
